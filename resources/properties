@@ -1,0 +1,3 @@
+email=shukalov@bk.ru
+enc_file_repo=https://github.com/shukalov/test_encr_file
+ansible_repo=https://github.com/shukalov/sb_encr_ansible.git
